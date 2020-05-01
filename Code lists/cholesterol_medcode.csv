@@ -1,0 +1,14 @@
+medcode,readcode,readterm
+12,44P..00,Serum cholesterol
+622,44P1.00,Serum cholesterol normal
+2493,44P3.00,Serum cholesterol raised
+10940,6879.11,Cholesterol screen
+12821,44PK.00,Serum fasting total cholesterol
+13733,44PJ.00,Serum total cholesterol level
+13762,44d3.00,Plasma fasting HDL cholesterol level
+18040,44OE.00,Plasma total cholesterol level
+18147,44PH.00,Total cholesterol measurement
+18443,662a.00,Pre-treatment serum cholesterol level
+26902,44PZ.00,Serum cholesterol NOS
+29202,44P2.00,Serum cholesterol borderline
+35720,44P4.00,Serum cholesterol very high

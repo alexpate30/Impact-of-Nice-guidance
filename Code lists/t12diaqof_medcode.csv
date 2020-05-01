@@ -1,0 +1,133 @@
+medcode,readcode,Coding_ID,Cluster_ID,Cluster_Description,Cluster_Version,readterm
+711,C10..,Read V2,DM_COD,Codes for diabetes,102.0,Diabetes mellitus
+758,C10F.,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus
+1407,C10FJ,Read V2,DM_COD,Codes for diabetes,102.0,Insulin treated Type 2 diabetes mellitus
+1549,C10E.,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus
+10418,C10ED,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with nephropathy
+10692,C10EM,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with ketoacidosis
+12455,C10E.,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus
+12640,C10FC,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with nephropathy
+12736,C10F5,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with gangrene
+18264,C109J,Read V2,DM_COD,Codes for diabetes,102.0,Insulin treated Type 2 diabetes mellitus
+18278,C109J,Read V2,DM_COD,Codes for diabetes,102.0,Insulin treated Type 2 diabetes mellitus
+18387,C10E7,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with retinopathy
+18390,C10FM,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with persistent microalbuminuria
+18425,C10FB,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with polyneuropathy
+18496,C10F6,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with retinopathy
+18642,C10EH,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with arthropathy
+18683,C10E5,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with ulcer
+18777,C10F0,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with renal complications
+22487,C10N.,Read V2,DM_COD,Codes for diabetes,102.0,Secondary diabetes mellitus
+22871,C10EP,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with exudative maculopathy
+22884,C10F.,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus
+25591,C10FQ,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with exudative maculopathy
+25627,C10F7,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus - poor control
+26054,C10FL,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with persistent proteinuria
+30294,C10EL,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with persistent microalbuminuria
+30323,C10EK,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with persistent proteinuria
+32627,C10FN,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with ketoacidosis
+34268,C10F2,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with neurological complications
+34450,C10FK,Read V2,DM_COD,Codes for diabetes,102.0,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+35288,C10E8,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus - poor control
+35385,C10FH,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with neuropathic arthropathy
+36633,C109K,Read V2,DM_COD,Codes for diabetes,102.0,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+36695,C10D.,Read V2,DM_COD,Codes for diabetes,102.0,Diabetes mellitus autosomal dominant type 2
+37648,C109J,Read V2,DM_COD,Codes for diabetes,102.0,Insulin treated Type 2 diabetes mellitus
+37806,C10FF,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with peripheral angiopathy
+39070,C10EE,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with hypoglycaemic coma
+40682,C10E9,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus maturity onset
+40837,C10EN,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with ketoacidotic coma
+42831,C10E2,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with neurological complications
+43227,C10F3,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with multiple complications
+43453,C10C.,Read V2,DM_COD,Codes for diabetes,102.0,Diabetes mellitus autosomal dominant
+43857,C10M.,Read V2,DM_COD,Codes for diabetes,102.0,Lipoatrophic diabetes mellitus
+43921,C10E4,Read V2,DM_COD,Codes for diabetes,102.0,Unstable type 1 diabetes mellitus
+44982,C10FE,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with diabetic cataract
+45276,C10E3,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with multiple complications
+46301,C10EC,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with polyneuropathy
+46624,C10C.,Read V2,DM_COD,Codes for diabetes,102.0,Diabetes mellitus autosomal dominant
+46917,C10FD,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with hypoglycaemic coma
+47315,C10F7,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus - poor control
+47321,C10F1,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with ophthalmic complications
+47582,C10E0,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with renal complications
+47649,C10E1,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with ophthalmic complications
+47650,C10E3,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with multiple complications
+47954,C10F9,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus without complication
+49074,C10F4,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with ulcer
+49554,C10EF,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with diabetic cataract
+49655,C10F6,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with retinopathy
+49949,C10E4,Read V2,DM_COD,Codes for diabetes,102.0,Unstable type 1 diabetes mellitus
+50527,C10FB,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with polyneuropathy
+51261,C10E.,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus
+51697,C10G.,Read V2,DM_COD,Codes for diabetes,102.0,Secondary pancreatic diabetes mellitus
+51756,C10FP,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with ketoacidotic coma
+53392,C10F9,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus without complication
+54008,C10EJ,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with neuropathic arthropathy
+54600,C10E4,Read V2,DM_COD,Codes for diabetes,102.0,Unstable type 1 diabetes mellitus
+55239,C10EQ,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with gastroparesis
+57278,C10F0,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with renal complications
+59253,C10FG,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with arthropathy
+59991,C10D.,Read V2,DM_COD,Codes for diabetes,102.0,Diabetes mellitus autosomal dominant type 2
+61122,C10H.,Read V2,DM_COD,Codes for diabetes,102.0,Diabetes mellitus induced by non-steroid drugs
+62209,C10EM,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with ketoacidosis
+62613,C10EA,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus without complication
+62674,C10FA,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with mononeuropathy
+63690,C10FR,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with gastroparesis
+64668,C10FJ,Read V2,DM_COD,Codes for diabetes,102.0,Insulin treated Type 2 diabetes mellitus
+65267,C10F3,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with multiple complications
+66145,C10EN,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with ketoacidotic coma
+67212,C10H0,Read V2,DM_COD,Codes for diabetes,102.0,Diabetes mellitus induced by non-steroid drugs without complication
+68105,C10EB,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with mononeuropathy
+69676,C10EA,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus without complication
+69993,C10E6,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with gangrene
+72702,C10E8,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus - poor control
+91646,C10F4,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with ulcer
+91942,C10E3,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with multiple complications
+91943,C10EC,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with polyneuropathy
+93380,C10N1,Read V2,DM_COD,Codes for diabetes,102.0,Cystic fibrosis related diabetes mellitus
+93468,C10EG,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with peripheral angiopathy
+93727,C10FE,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with diabetic cataract
+93875,C10E7,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with retinopathy
+93878,C10E5,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with ulcer
+94383,C10N0,Read V2,DM_COD,Codes for diabetes,102.0,Secondary diabetes mellitus without complication
+95343,C10E7,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with retinopathy
+95351,C10FA,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with mononeuropathy
+95539,C10FS,Read V2,DM_COD,Codes for diabetes,102.0,Maternally inherited diabetes mellitus
+95636,C10ER,Read V2,DM_COD,Codes for diabetes,102.0,Latent autoimmune diabetes mellitus in adult
+96235,C10E9,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus maturity onset
+96506,C10G0,Read V2,DM_COD,Codes for diabetes,102.0,Secondary pancreatic diabetes mellitus without complication
+97849,C10E9,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus maturity onset
+97894,C10EP,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with exudative maculopathy
+98071,C10E1,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with ophthalmic complications
+98392,C10C.,Read V2,DM_COD,Codes for diabetes,102.0,Diabetes mellitus autosomal dominant
+98616,C10F2,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with neurological complications
+98704,C10E5,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with ulcer
+98723,C10FD,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with hypoglycaemic coma
+99311,C10E1,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with ophthalmic complications
+99716,C10EE,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with hypoglycaemic coma
+99719,C10EA,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus without complication
+100770,C10EF,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with diabetic cataract
+100964,C10F1,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with ophthalmic complications
+101311,C10EC,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with polyneuropathy
+101735,C10E2,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with neurological complications
+102112,C10E6,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with gangrene
+102163,C10ED,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with nephropathy
+102201,C10FC,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with nephropathy
+102946,C10E0,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with renal complications
+103902,C10FG,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with arthropathy
+104323,C10F5,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with gangrene
+104639,C10FF,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with peripheral angiopathy
+105337,C10E8,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus - poor control
+106061,C10FP,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with ketoacidotic coma
+106528,C10FN,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with ketoacidosis
+106926,PKyP.,Read V2,DM_COD,Codes for diabetes,102.0,"Diabetes insipidus, diabetes mellitus, optic atrophy and deafness"
+106927,PKyP.,Read V2,DM_COD,Codes for diabetes,102.0,"Diabetes insipidus, diabetes mellitus, optic atrophy and deafness"
+107603,C10P.,Read V2,DM_COD,Codes for diabetes,102.0,Diabetes mellitus in remission
+107701,C10FK,Read V2,DM_COD,Codes for diabetes,102.0,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+107824,C10P1,Read V2,DM_COD,Codes for diabetes,102.0,Type II diabetes mellitus in remission
+108360,C10P0,Read V2,DM_COD,Codes for diabetes,102.0,Type I diabetes mellitus in remission
+108724,C10EQ,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with gastroparesis
+109051,C10E6,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with gangrene
+109197,C10FH,Read V2,DM_COD,Codes for diabetes,102.0,Type 2 diabetes mellitus with neuropathic arthropathy
+109628,C10P0,Read V2,DM_COD,Codes for diabetes,102.0,Type I diabetes mellitus in remission
+109837,C10E0,Read V2,DM_COD,Codes for diabetes,102.0,Type 1 diabetes mellitus with renal complications

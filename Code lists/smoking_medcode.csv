@@ -1,0 +1,89 @@
+medcode,readcode,readterm,status
+33,1371,Never smoked tobacco,No
+60,137L.00,Current non-smoker,No
+90,137S.00,Ex smoker,Ex
+93,137P.00,Cigarette smoker,Yes
+776,137K.00,Stopped smoking,Ex
+1822,1376,Very heavy smoker - 40+cigs/d,Yes
+1823,137P.11,Smoker,Yes
+1878,1374,Moderate smoker - 10-19 cigs/d,Yes
+3568,1375,Heavy smoker - 20-39 cigs/day,Yes
+7130,9OO..12,Stop smoking monitoring admin.,Yes
+7622,8CAL.00,Smoking cessation advice,Yes
+10211,13p..00,Smoking cessation milestones,Yes
+10558,137R.00,Current smoker,Yes
+10742,8HTK.00,Referral to stop-smoking clinic,Yes
+10898,13p4.00,Smoking free weeks,Ex
+11356,9N2k.00,Seen by smoking cessation advisor,Yes
+11527,9N4M.00,DNA - Did not attend smoking cessation clinic,Yes
+11788,1371.11,Non-smoker,No
+12240,137G.00,Trying to give up smoking,Yes
+12878,137T.00,Date ceased smoking,Ex
+12941,1372.11,Occasional smoker,Yes
+12942,137..11,Smoker - amount smoked,Yes
+12943,137J.00,Cigar smoker,Yes
+12944,1373,Light smoker - 1-9 cigs/day,Yes
+12945,137M.00,Rolls own cigarettes,Yes
+12946,137F.00,Ex-smoker - amount unknown,Ex
+12947,137H.00,Pipe smoker,Yes
+12951,137Q.11,Smoking restarted,Yes
+12952,137Q.00,Smoking started,Yes
+12953,9OO1.00,Attends stop smoking monitor.,Yes
+12955,1379,Ex-moderate smoker (10-19/day),Ex
+12956,137A.00,Ex-heavy smoker (20-39/day),Ex
+12957,1378,Ex-light smoker (1-9/day),Ex
+12958,1372,Trivial smoker - < 1 cig/day,Yes
+12959,137B.00,Ex-very heavy smoker (40+/day),Ex
+12961,1377,Ex-trivial smoker (<1/day),Ex
+12963,137Y.00,Cigar consumption,Yes
+12964,137C.00,Keeps trying to stop smoking,Yes
+12965,137X.00,Cigarette consumption,Yes
+12966,137V.00,Smoking reduced,Yes
+13350,13WF400,Passive smoking risk,Passive
+13351,137I.00,Passive smoker,Passive
+16717,H310100,Smokers' cough,Yes
+18573,8H7i.00,Referral to smoking cessation advisor,Yes
+18926,67H1.00,Lifestyle advice regarding smoking,Yes
+19485,9OOA.00,Stop smoking monitor.chck done,Yes
+19488,137O.00,Ex cigar smoker,Ex
+21637,9OOZ.00,Stop smoking monitor admin.NOS,Yes
+26470,137N.00,Ex pipe smoker,Ex
+30423,137c.00,Thinking about stopping smoking,Yes
+30762,137d.00,Not interested in stopping smoking,Yes
+31114,137b.00,Ready to stop smoking,Yes
+32083,9OO..11,Stop smoking clinic admin.,Yes
+34126,13p0.00,Negotiated date for cessation of smoking,Yes
+34127,13p1.00,Smoking status at 4 weeks,Ex
+34374,13p2.00,Smoking status between 4 and 52 weeks,Ex
+38112,13p5.00,Smoking cessation programme start date,Yes
+40417,9OO3.00,Stop smoking monitor default,Yes
+40418,9OO2.00,Refuses stop smoking monitor,Yes
+41042,8CAg.00,Smoking cessation advice provided by community pharmacist,Yes
+41405,13p3.00,Smoking status at 52 weeks,Ex
+41979,137e.00,Smoking restarted,Yes
+42722,9OO4.00,Stop smoking monitor 1st lettr,Yes
+46300,137g.00,Cigarette pack-years,Yes
+46321,137f.00,Reason for restarting smoking,Yes
+47273,ZRaM.00,Motives for smoking scale,Yes
+53101,9OO7.00,Stop smoking monitor verb.inv.,Yes
+58490,T5117,,Yes
+58597,9OO8.00,Stop smoking monitor phone inv,Yes
+59866,ZRh4.00,Reasons for smoking scale,Yes
+60720,9OO5.00,Stop smoking monitor 2nd lettr,Yes
+66387,9OO6.00,Stop smoking monitor 3rd lettr,Yes
+74907,745H.00,Smoking cessation therapy,Yes
+90522,745Hz00,Smoking cessation therapy NOS,Yes
+91708,745Hy00,Other specified smoking cessation therapy,Yes
+94958,745H400,Smoking cessation drug therapy,Yes
+96992,9kc..00,Smoking cessation - enhanced services administration,Yes
+97210,137j.00,Ex-cigarette smoker,Ex
+98137,67H6.00,Brief intervention for smoking cessation,Yes
+98154,8HkQ.00,Referral to NHS stop smoking service,Yes
+98177,9kn..00,Non-smoker annual review - enhanced services administration,No
+98245,8HBM.00,Stop smoking face to face follow-up,Yes
+98493,9kc0.00,Smoking cessatn monitor template complet - enhanc serv admin,Yes
+99838,137K000,Recently stopped smoking,Ex
+100495,137l.00,Ex roll-up cigarette smoker,Ex
+101338,137m.00,Failed attempt to stop smoking,Ye
+102361,9NS0200,Referral for smoking cessation service offered,Yes
+103208,13p7.00,Smoking status at 12 weeks,Ex

@@ -1,0 +1,170 @@
+medcode,readcode,readterm
+240,G3...00,Ischaemic heart disease
+241,G30..00,Acute myocardial infarction
+504,G65..00,Transient cerebral ischaemia
+569,G64..12,Infarction - cerebral
+1195,F423600,Amaurosis fugax
+1204,G30..14,Heart attack
+1298,G66..11,CVA unspecified
+1344,G340.12,Coronary artery disease
+1414,G33z300,Angina on effort
+1430,G33..00,Angina pectoris
+1431,G311.13,Unstable angina
+1433,G65..12,Transient ischaemic attack
+1469,G66..00,Stroke and cerebrovascular accident unspecified
+1655,G340.11,Triple vessel disease of the heart
+1676,G3z..00,Ischaemic heart disease NOS
+1677,G30..15,MI - acute myocardial infarction
+1678,G308.00,Inferior myocardial infarction NOS
+1792,G3...13,IHD - Ischaemic heart disease
+1895,G65z.00,Transient cerebral ischaemia NOS
+2417,G65..13,Vertebro-basilar insufficiency
+2491,G30..12,Coronary thrombosis
+3132,G65..11,Drop attack
+3149,G64z.00,Cerebral infarction NOS
+3704,G307.00,Acute subendocardial infarction
+3999,G340000,Single coronary vessel disease
+4017,G32..00,Old myocardial infarction
+4656,G311.11,Crescendo angina
+5185,G64z111,Lateral medullary syndrome
+5254,G340100,Double coronary vessel disease
+5268,G650.11,Insufficiency - basilar artery
+5363,G64..11,CVA - cerebral artery occlusion
+5387,G301.00,Other specified anterior myocardial infarction
+5413,G340.00,Coronary atherosclerosis
+5602,G64z.12,Cerebellar infarction
+6116,G66..13,CVA - Cerebrovascular accident unspecified
+6155,G64..13,Stroke due to cerebral arterial occlusion
+6253,G66..12,Stroke unspecified
+7320,G343.00,Ischaemic cardiomyopathy
+7347,G311100,Unstable angina
+7696,G33z200,Syncope anginosa
+7780,G667.00,Left sided CVA
+8837,G64..00,Cerebral arterial occlusion
+8935,G302.00,Acute inferolateral infarction
+9276,G31y000,Acute coronary insufficiency
+9413,G31y.00,Other acute and subacute ischaemic heart disease
+9507,G307000,Acute non-Q wave infarction
+9555,G33z500,Post infarct angina
+9985,G64z200,Left sided cerebral infarction
+10504,G64z300,Right sided cerebral infarction
+10562,G307100,Acute non-ST segment elevation myocardial infarction
+10794,G656.00,Vertebrobasilar insufficiency
+11048,G331.11,Variant angina pectoris
+11983,G311500,Acute coronary syndrome
+12139,G300.00,Acute anterolateral infarction
+12229,G30X000,Acute ST segment elevation myocardial infarction
+12804,G33z700,Stable angina
+12833,G668.00,Right sided CVA
+12986,G331.00,Prinzmetal's angina
+13566,G30..11,Attack - heart
+13571,G30..16,Thrombosis - coronary
+14658,G30z.00,Acute myocardial infarction NOS
+14897,G301z00,Anterior myocardial infarction NOS
+14898,G305.00,Lateral myocardial infarction NOS
+15019,G641.00,Cerebral embolism
+15252,G64z.11,Brainstem infarction NOS
+15661,G310.11,Dressler's syndrome
+15754,G34z.00,Other chronic ischaemic heart disease NOS
+15788,G65zz00,Transient cerebral ischaemia NOS
+16408,G32..11,Healed myocardial infarction
+16507,G65z100,Intermittent cerebral ischaemia
+16517,G640.00,Cerebral thrombosis
+17133,G30A.00,Mural thrombosis
+17307,G311200,Angina at rest
+17464,G32..12,Personal history of myocardial infarction
+17689,G30..17,Silent myocardial infarction
+17872,G301100,Acute anteroseptal infarction
+18118,G311400,Worsening angina
+18125,G330000,Nocturnal angina
+18842,G35..00,Subsequent myocardial infarction
+18889,G34z000,Asymptomatic coronary heart disease
+19354,G65y.00,Other transient cerebral ischaemia
+19655,G311.14,Angina at rest
+20095,G330.00,Angina decubitus
+20416,G3...12,Atherosclerotic heart disease
+21844,G31y300,Transient myocardial ischaemia
+22383,G3y..00,Other specified ischaemic heart disease
+23078,G34y100,Chronic myocardial ischaemia
+23465,G652.00,Subclavian steal syndrome
+23579,G310.00,Postmyocardial infarction syndrome
+23671,G63y000,Cerebral infarct due to thrombosis of precerebral arteries
+23708,G361.00,Atrial septal defect/curr comp folow acut myocardal infarct
+23892,G304.00,Posterior myocardial infarction NOS
+23942,G650.00,Basilar artery syndrome
+24126,G360.00,Haemopericardium/current comp folow acut myocard infarct
+24446,G63y100,Cerebral infarction due to embolism of precerebral arteries
+24540,G34y000,Chronic coronary insufficiency
+24783,G3...11,Arteriosclerotic heart disease
+25615,G64z000,Brainstem infarction
+25842,G33z.00,Angina pectoris NOS
+26424,G64z400,Infarction of basal ganglia
+26863,G33z600,New onset angina
+27951,G31..00,Other acute and subacute ischaemic heart disease
+27975,G641000,Cerebral infarction due to embolism of cerebral arteries
+27977,G31yz00,Other acute and subacute ischaemic heart disease NOS
+28138,G34..00,Other chronic ischaemic heart disease
+28554,G33zz00,Angina pectoris NOS
+28736,G30y000,Acute atrial infarction
+29421,G344.00,Silent myocardial ischaemia
+29553,G366.00,"Thrombosis atrium,auric append&vent/curr comp foll acute MI"
+29643,G303.00,Acute inferoposterior infarction
+29758,G30X.00,Acute transmural myocardial infarction of unspecif site
+29902,G330z00,Angina decubitus NOS
+30330,G309.00,Acute Q-wave infarct
+30421,G30..13,Cardiac rupture following myocardial infarction (MI)
+32272,G38..00,Postoperative myocardial infarction
+32450,G33z400,Ischaemic chest pain
+32854,G30B.00,Acute posterolateral myocardial infarction
+33543,G6X..00,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+34328,G311300,Refractory angina
+34633,G34y.00,Other specified chronic ischaemic heart disease
+34758,G641.11,Cerebral embolus
+34803,G30y.00,Other acute myocardial infarction
+35119,G501.00,Post infarction pericarditis
+35713,G34yz00,Other specified chronic ischaemic heart disease NOS
+36423,G36..00,Certain current complication follow acute myocardial infarct
+36523,G311.00,Preinfarction syndrome
+36609,G342.00,Atherosclerotic cardiovascular disease
+36717,G640000,Cerebral infarction due to thrombosis of cerebral arteries
+36854,G332.00,Coronary artery spasm
+37657,G362.00,Ventric septal defect/curr comp fol acut myocardal infarctn
+38609,G351.00,Subsequent myocardial infarction of inferior wall
+39344,G676000,"Cereb infarct due cerebral venous thrombosis, nonpyogenic"
+39449,G312.00,Coronary thrombosis not resulting in myocardial infarction
+39655,G311.12,Impending infarction
+39693,G31y200,Subendocardial ischaemia
+40429,G301000,Acute anteroapical infarction
+40758,G6W..00,Cereb infarct due unsp occlus/stenos precerebr arteries
+41221,G30y200,Acute septal infarction
+41835,G384.00,Postoperative subendocardial myocardial infarction
+44765,G653.00,Carotid artery syndrome hemispheric
+45809,G350.00,Subsequent myocardial infarction of anterior wall
+46017,G30yz00,Other acute myocardial infarction NOS
+46112,G380.00,Postoperative transmural myocardial infarction anterior wall
+46166,G35X.00,Subsequent myocardial infarction of unspecified site
+46276,G381.00,Postoperative transmural myocardial infarction inferior wall
+47642,G64z100,Wallenberg syndrome
+50594,G654.00,Multiple and bilateral precerebral artery syndromes
+53745,Gyu6400,[X]Other cerebral infarction
+54251,G311z00,Preinfarction syndrome NOS
+54535,G33z100,Stenocardia
+55137,G311011,MI - myocardial infarction aborted
+55247,G65z000,Impending cerebral ischaemia
+59189,G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI
+59940,G364.00,Ruptur chordae tendinae/curr comp fol acute myocard infarct
+61072,G311000,Myocardial infarction aborted
+62626,G30y100,Acute papillary muscle infarction
+63467,G306.00,True posterior myocardial infarction
+63746,Fyu5500,[X]Other transnt cerebral ischaemic attacks+related syndroms
+66388,G33z000,Status anginosus
+68357,G31y100,Microinfarction of heart
+68748,G38z.00,"Postoperative myocardial infarction, unspecified"
+69474,G365.00,Rupture papillary muscle/curr comp fol acute myocard infarct
+72562,G353.00,Subsequent myocardial infarction of other sites
+90572,Gyu6500,[X]Occlusion and stenosis of other precerebral arteries
+91627,Gyu6300,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+92036,Gyu6600,[X]Occlusion and stenosis of other cerebral arteries
+96838,Gyu3400,[X]Acute transmural myocardial infarction of unspecif site
+101251,ZV12D00,[V]Personal history of transient ischaemic attack
+106812,G383.00,Postoperative transmural myocardial infarction unspec site

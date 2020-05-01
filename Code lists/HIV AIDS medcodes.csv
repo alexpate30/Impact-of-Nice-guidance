@@ -1,0 +1,52 @@
+review,classify,classify2,medcode,read_code,clinical_pats,description,matching_terms
+Y,HIV/AIDS,,540,43C3.00,1112,HTLV-3 antibody positive,% 43C3%
+Y,HIV/AIDS,,2835,43C3.11,6219,HIV positive,% 43C3%
+Y,HIV/AIDS,,8281,A789A00,11,HIV disease resulting in wasting syndrome,% A789%
+Y,HIV/AIDS,,9130,A788.11,2220,Human immunodeficiency virus infection,% A788%
+Y,HIV/AIDS,,23770,A788.00,1106,Acquired immune deficiency syndrome,% A788%
+Y,HIV/AIDS,,23951,A789200,41,HIV disease resulting in candidiasis,% A789%
+Y,HIV/AIDS,,24872,ZV01A00,99,[V]Asymptomatic human immunodeficency virus infection status,% ZV01A%
+Y,HIV/AIDS,,27641,A789300,187,HIV disease resulting in Pneumocystis carinii pneumonia,% A789%
+Y,HIV/AIDS,,27853,A789500,42,HIV disease resulting in Kaposi's sarcoma,% A789%
+Y,HIV/AIDS,,36294,A788z00,138,Acquired human immunodeficiency virus infection syndrome NOS,% A788%
+Y,HIV/AIDS,,37006,A789000,26,HIV disease resulting in mycobacterial infection,% A789%
+Y,HIV/AIDS,,41185,Eu02400,16,[X]Dementia in human immunodef virus [HIV] disease,% Eu024%
+Y,HIV/AIDS,,44288,R109.00,108,[D]Laboratory evidence of human immunodeficiency virus [HIV],% R109%
+Y,HIV/AIDS,,44303,A789.00,99,Human immunodef virus resulting in other disease,% A789%
+Y,HIV/AIDS,,44617,A789600,13,HIV disease resulting in Burkitt's lymphoma,% A789%
+Y,HIV/AIDS,,47632,A788U00,3,"HIV disease result/haematological+immunologic abnorms,NEC",% A788%
+Y,HIV/AIDS,,50076,A789400,13,HIV disease resulting in multiple infections,% A789%
+Y,HIV/AIDS,,51708,A789X00,6,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu",% A789%
+Y,HIV/AIDS,,53636,A788400,3,Human immunodeficiency virus with neurological disease,% A788%
+Y,HIV/AIDS,,58857,A788000,31,Acute human immunodeficiency virus infection,% A788%
+Y,HIV/AIDS,,58859,A788100,109,Asymptomatic human immunodeficiency virus infection,% A788%
+Y,HIV/AIDS,,62854,AyuC.00,33,[X]Human immunodeficiency virus disease,% AyuC%
+Y,HIV/AIDS,,62891,A788y00,9,Human immunodeficiency virus with other clinical findings,% A788%
+Y,HIV/AIDS,,65117,A789900,8,HIV disease resulting in lymphoid interstitial pneumonitis,% A789%
+Y,HIV/AIDS,,66367,A789700,10,HIV dis resulting oth types of non-Hodgkin's lymphoma,% A789%
+Y,HIV/AIDS,,66368,A789100,4,HIV disease resulting in cytomegaloviral disease,% A789%
+Y,HIV/AIDS,,67575,A788W00,10,HIV disease resulting in unspecified malignant neoplasm,% A788%
+Y,HIV/AIDS,,69766,A788200,8,HIV infection with persistent generalised lymphadenopathy,% A788%
+Y,HIV/AIDS,,69767,AyuC600,2,[X]HIV disease resulting in other non-Hodgkin's lymphoma,% AyuC%
+Y,HIV/AIDS,,70528,A788500,5,Human immunodeficiency virus with secondary infection,% A788%
+Y,HIV/AIDS,,70869,A788300,3,Human immunodeficiency virus with constitutional disease,% A788%
+Y,HIV/AIDS,,71450,A788X00,2,HIV disease resulting/unspcf infectious+parasitic disease,% A788%
+Y,HIV/AIDS,,96751,AyuCB00,1,"[X]HIV disease result/haematological+immunologic abnorms,NEC",% AyuC%
+Y,HIV/AIDS,,100769,AyuCD00,5,[X]Unspecified human immunodeficiency virus [HIV] disease,% AyuC%
+Y,HIV/AIDS,,101836,A788600,,Human immunodeficiency virus with secondary cancers,% A788%
+Y,HIV/AIDS,,102117,AyuC300,1,[X]HIV disease resulting in multiple infections,% AyuC%
+Y,HIV/AIDS,,102252,AyuCC00,2,[X]HIV disease resulting in other specified conditions,% AyuC%
+Y,HIV/AIDS,,104134,AyuC400,1,[X]HIV disease resulting/other infectious+parasitic diseases,% AyuC%
+Y,HIV/AIDS,,104466,L179.00,3,HIV disease complicating pregnancy childbirth puerperium,% L179.00%
+Y,HIV/AIDS,,104717,A789311,,HIV disease resulting in Pneumocystis jirovecii pneumonia,% A789%
+Y,HIV/AIDS,,105324,A789800,1,HIV disease resulting in multiple malignant neoplasms,% A789%
+Y,HIV/AIDS,,107807,AyuC100,1,[X]HIV disease resulting in other viral infections,% AyuC%
+Y,HIV/AIDS,,108054,A789511,1,HIV disease resulting in Kaposi sarcoma,% A789%
+,,,23763,,,,
+,,,32018,,,   HTLV 1 nucleic acid detection,
+,,,33943,,,,
+,,,43537,,,,
+,,,46442,,,,
+,,,54423,,,,
+,,,72065,,,,
+,,,93642,,,,

@@ -1,0 +1,10 @@
+medcode,readcode,Coding_ID,Cluster_ID,Cluster_Description,Cluster_Version,readterm
+1268,G5732,Read V2,AFIB_COD,Atrial fibrillation codes,101.0,Paroxysmal atrial fibrillation
+1664,G5730,Read V2,AFIB_COD,Atrial fibrillation codes,101.0,Atrial fibrillation
+1757,G5731,Read V2,AFIB_COD,Atrial fibrillation codes,101.0,Atrial flutter
+2212,G573.,Read V2,AFIB_COD,Atrial fibrillation codes,101.0,Atrial fibrillation and flutter
+23437,G573z,Read V2,AFIB_COD,Atrial fibrillation codes,101.0,Atrial fibrillation and flutter NOS
+35127,G5733,Read V2,AFIB_COD,Atrial fibrillation codes,101.0,Non-rheumatic atrial fibrillation
+96076,G5735,Read V2,AFIB_COD,Atrial fibrillation codes,101.0,Persistent atrial fibrillation
+96277,G5734,Read V2,AFIB_COD,Atrial fibrillation codes,101.0,Permanent atrial fibrillation
+107472,G5736,Read V2,AFIB_COD,Atrial fibrillation codes,101.0,Paroxysmal atrial flutter

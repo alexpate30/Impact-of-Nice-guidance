@@ -1,0 +1,11 @@
+medcode,readcode,readterm
+65,44P6.00,Serum LDL cholesterol level
+13765,44PD.00,Serum fasting LDL cholesterol level
+13766,44PI.00,Calculated LDL cholesterol level
+15405,44R4.00,Lipoprotein electroph. - LDL
+19764,44dB.00,Plasma LDL cholesterol level
+29699,44d5.00,Plasma fasting LDL cholesterol level
+33304,44d4.00,Plasma random LDL cholesterol level
+34224,C320300,Low-density-lipoprotein-type (LDL) hyperlipoproteinaemia
+46224,44PE.00,Serum random LDL cholesterol level
+49197,44R4.11,LDL - electrophoresis

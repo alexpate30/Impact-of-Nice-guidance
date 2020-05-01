@@ -1,0 +1,33 @@
+readcode,readterm,medcode
+ZV17312,[V]Family history of myocardial infarction,2973
+12C2.00,FH: Ischaemic heart dis. <60,3198
+ZV17311,[V]Family history of ischaemic heart disease (IHD),5970
+12C4.12,FH: Stroke,6323
+12C5.00,FH: Myocardial infarction,6324
+12C4.11,FH: CVA,7765
+12C4.00,FH: CVA/stroke,8258
+12C5.12,FH: Ischaemic heart disease,9490
+12C5.11,FH: Coronary thrombosis,10934
+ZV17300,[V]Family history of ischaemic heart disease,11135
+12C2.13,FH: Angina < 60yrs,12709
+12C2.12,FH: MI- Myocardial infarct <60,12806
+12C..14,FH: Angina,13222
+ZV17100,[V]Family history of stroke (cerebrovascular),13253
+12C..00,FH: Cardiovascular disease,13258
+12CA.00,FH myocardial infarction male first degree age known,13269
+12C2.11,FH: Myocardial infarction < 60,13270
+12CP,FH: Myocardial infarct in 1st degree male relative <55,18661
+12C7.00,Family history of transient ischaemic attack,18997
+12CN.00,FH: Myocardial infarct in 1st degree female relative <65,19127
+12CG.00,FH angina female first degree age known,19128
+12CE.00,FH angina male first degree age known,26636
+12CC.00,FH myocardial infarction female first degree age known,26637
+12CM.00,FH: Angina in 1st degree male relative <55 years,26653
+ZV17111,[V]Family history of cerebrovascular accident (CVA),29064
+12CL.00,FH: Angina in 1st degree female relative <65 years,30789
+12CB.00,FH myocardial infarction male first degree age unknown,39572
+12CF.00,FH angina male first degree age unknown,40865
+12CH.00,FH angina female first degree age unknown,42996
+12CD.00,FH myocardial infarction female first degree age unknown,43954
+12CV.00,FH: Cardiovascular disease 1st degree male relative < 55,96212
+12CW.00,FH: Cardiovascular disease 1st degree female reltve < 65,96596

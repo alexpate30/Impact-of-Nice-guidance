@@ -1,0 +1,32 @@
+medcode,readcode,Coding_ID,Cluster_ID,Cluster_Description,Cluster_Version,readterm
+204,G2...,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Hypertensive disease
+351,G20..,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Essential hypertension
+799,G20..,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Essential hypertension
+1894,G201.,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Benign essential hypertension
+3712,G20z.,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Essential hypertension NOS
+4372,G202.,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Systolic hypertension
+7057,G2z..,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Hypertensive disease NOS
+7329,G24..,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Secondary hypertension
+8732,G2...,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Hypertensive disease
+10818,G20z.,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Essential hypertension NOS
+15377,G200.,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Malignant essential hypertension
+16059,G24z.,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Secondary hypertension NOS
+18765,G2y..,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Other specified hypertensive disease
+31387,G24z0,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Secondary renovascular hypertension NOS
+31755,G240.,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Secondary malignant hypertension
+34744,G244.,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Hypertension secondary to endocrine disorders
+42229,G24zz,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Secondary hypertension NOS
+51635,G241z,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Secondary benign hypertension NOS
+57288,G241.,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Secondary benign hypertension
+69753,Gyu2.,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,[X]Hypertensive diseases
+73293,G240z,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Secondary malignant hypertension NOS
+83473,G203.,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Diastolic hypertension
+102458,Gyu20,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,[X]Other secondary hypertension
+105274,G28..,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Stage 2 hypertension (NICE - National Institute for Health and Clinical Excellence 2011)
+105316,G25..,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Stage 1 hypertension (NICE - National Institute for Health and Clinical Excellence 2011)
+105371,G25..,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Stage 1 hypertension (NICE - National Institute for Health and Clinical Excellence 2011)
+105487,G26..,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Severe hypertension (NICE - National Institute for Health and Clinical Excellence 2011)
+105989,G26..,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Severe hypertension (NICE - National Institute for Health and Clinical Excellence 2011)
+107704,G20..,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Essential hypertension
+108136,G250.,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Stage 1 hypertension (NICE 2011) without evidence of end organ damage
+109797,G251.,Read V2,HYP_COD,Hypertension diagnosis codes,100.0,Stage 1 hypertension (NICE 2011) with evidence of end organ damage

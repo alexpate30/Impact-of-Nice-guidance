@@ -1,0 +1,257 @@
+Readcode,readterm,medcode
+G3...00,Ischaemic heart disease,240
+G30..00,Acute myocardial infarction,241
+G65..00,Transient cerebral ischaemia,504
+G64..12,Infarction - cerebral,569
+792..11,Coronary artery bypass graft operations,737
+G30..14,Heart attack,1204
+G66..11,CVA unspecified,1298
+G340.12,Coronary artery disease,1344
+G33z300,Angina on effort,1414
+G33..00,Angina pectoris,1430
+G311.13,Unstable angina,1431
+G65..12,Transient ischaemic attack,1433
+G66..00,Stroke and cerebrovascular accident unspecified,1469
+G5z..00,Heart disease NOS,1490
+G340.11,Triple vessel disease of the heart,1655
+G3z..00,Ischaemic heart disease NOS,1676
+G30..15,MI - acute myocardial infarction,1677
+G308.00,Inferior myocardial infarction NOS,1678
+G3...13,IHD - Ischaemic heart disease,1792
+G65z.00,Transient cerebral ischaemia NOS,1895
+G65..13,Vertebro-basilar insufficiency,2417
+G30..12,Coronary thrombosis,2491
+G64z.00,Cerebral infarction NOS,3149
+G61z.00,Intracerebral haemorrhage NOS,3535
+G307.00,Acute subendocardial infarction,3704
+G340000,Single coronary vessel disease,3999
+G32..00,Old myocardial infarction,4017
+G311.11,Crescendo angina,4656
+G61..00,Intracerebral haemorrhage,5051
+G64z111,Lateral medullary syndrome,5185
+G340100,Double coronary vessel disease,5254
+G650.11,Insufficiency - basilar artery,5268
+G64..11,CVA - cerebral artery occlusion,5363
+G301.00,Other specified anterior myocardial infarction,5387
+G340.00,Coronary atherosclerosis,5413
+G64z.12,Cerebellar infarction,5602
+7927500,Open angioplasty of coronary artery,5744
+14A7.12,H/O: stroke,5871
+G66..13,CVA - Cerebrovascular accident unspecified,6116
+G64..13,Stroke due to cerebral arterial occlusion,6155
+G68X.00,"Sequelae of stroke,not specfd as h'morrhage or infarction",6228
+G66..12,Stroke unspecified,6253
+14A5.00,H/O: angina pectoris,6336
+G61..11,CVA - cerebrovascular accid due to intracerebral haemorrhage,6960
+ZV45L00,[V]Status following coronary angioplasty NOS,6980
+7921.11,Other autograft bypass of coronary artery,7134
+12C3.13,FH: Angina > 60yrs,7207
+G343.00,Ischaemic cardiomyopathy,7320
+G311100,Unstable angina,7347
+G33z200,Syncope anginosa,7696
+G667.00,Left sided CVA,7780
+323..00,ECG: myocardial infarction,7783
+G614.00,Pontine haemorrhage,7912
+G663.00,Brain stem stroke syndrome,8443
+G64..00,Cerebral arterial occlusion,8837
+G302.00,Acute inferolateral infarction,8935
+7929400,Insertion of coronary artery stent,8942
+G31y000,Acute coronary insufficiency,9276
+G31..00,Other acute and subacute ischaemic heart disease,9413
+G307000,Acute non-Q wave infarction,9507
+G580.14,Biventricular failure,9524
+G33z500,Post infarct angina,9555
+G64z200,Left sided cerebral infarction,9985
+G....13,Heart diseases,10109
+G64z300,Right sided cerebral infarction,10504
+G307100,Acute non-ST segment elevation myocardial infarction,10562
+G656.00,Vertebrobasilar insufficiency,10794
+G331.11,Variant angina pectoris,11048
+G311500,Acute coronary syndrome,11983
+G300.00,Acute anterolateral infarction,12139
+G30X000,Acute ST segment elevation myocardial infarction,12229
+SP07600,Coronary artery bypass graft occlusion,12734
+G33z700,Stable angina,12804
+G668.00,Right sided CVA,12833
+G331.00,Prinzmetal's angina,12986
+662K.00,Angina control,13185
+G....12,Cardiac diseases,13250
+G....11,Cardiovascular system diseases,13259
+G613.00,Cerebellar haemorrhage,13564
+G30..11,Attack - heart,13566
+G30..16,Thrombosis - coronary,13571
+8HBJ.00,Stroke / transient ischaemic attack referral,13707
+G30z.00,Acute myocardial infarction NOS,14658
+662K200,Angina control - improving,14782
+G301z00,Anterior myocardial infarction NOS,14897
+G305.00,Lateral myocardial infarction NOS,14898
+G641.00,Cerebral embolism,15019
+G64z.11,Brainstem infarction NOS,15252
+662Kz00,Angina control NOS,15349
+662K100,Angina control - poor,15373
+G310.11,Dressler's syndrome,15661
+G34z.00,Other chronic ischaemic heart disease NOS,15754
+G65z.00,Transient cerebral ischaemia NOS,15788
+G32..11,Healed myocardial infarction,16408
+G65z100,Intermittent cerebral ischaemia,16507
+G640.00,Cerebral thrombosis,16517
+G669.00,"Cerebral palsy, not congenital or infantile, acute",16956
+G30A.00,Mural thrombosis,17133
+G311.14,Angina at rest,17307
+G664.00,Cerebellar stroke syndrome,17322
+G32..12,Personal history of myocardial infarction,17464
+G30..17,Silent myocardial infarction,17689
+G301100,Acute anteroseptal infarction,17872
+G311400,Worsening angina,18118
+G330000,Nocturnal angina,18125
+6A2..00,Coronary heart disease annual review,18135
+G61..12,Stroke due to intracerebral haemorrhage,18604
+ZV45800,[V]Presence of coronary angioplasty implant and graft,18643
+9N4X.00,DNA - Did not attend stroke clinic,18687
+G660.00,Middle cerebral artery syndrome,18689
+8HTQ.00,Referral to stroke clinic,18804
+G35..00,Subsequent myocardial infarction,18842
+G34z000,Asymptomatic coronary heart disease,18889
+G61X100,"Right sided intracerebral haemorrhage, unspecified",19201
+G662.00,Posterior cerebral artery syndrome,19260
+G661.00,Anterior cerebral artery syndrome,19280
+ZV12511,[V]Personal history of stroke,19348
+G65y.00,Other transient cerebral ischaemia,19354
+662K000,Angina control - good,19542
+G311200,Angina at rest,19655
+G330.00,Angina decubitus,20095
+G62z.00,Intracranial haemorrhage NOS,20284
+G3...12,Atherosclerotic heart disease,20416
+G651000,Vertebro-basilar artery syndrome,21118
+G31y300,Transient myocardial ischaemia,21844
+G3y..00,Other specified ischaemic heart disease,22383
+G34y100,Chronic myocardial ischaemia,23078
+G652.00,Subclavian steal syndrome,23465
+G310.00,Postmyocardial infarction syndrome,23579
+G63y000,Cerebral infarct due to thrombosis of precerebral arteries,23671
+G361.00,Atrial septal defect/curr comp folow acut myocardal infarct,23708
+G304.00,Posterior myocardial infarction NOS,23892
+G650.00,Basilar artery syndrome,23942
+G360.00,Haemopericardium/current comp folow acut myocard infarct,24126
+G63y100,Cerebral infarction due to embolism of precerebral arteries,24446
+G34y000,Chronic coronary insufficiency,24540
+G5y1.00,Myocardial degeneration,24683
+G3...11,Arteriosclerotic heart disease,24783
+G64z000,Brainstem infarction,25615
+G33z.00,Angina pectoris NOS,25842
+G64z400,Infarction of basal ganglia,26424
+G33z600,New onset angina,26863
+G31y.00,Other acute and subacute ischaemic heart disease,27951
+G641000,Cerebral infarction due to embolism of cerebral arteries,27975
+G31yz00,Other acute and subacute ischaemic heart disease NOS,27977
+G34..00,Other chronic ischaemic heart disease,28138
+G61X000,"Left sided intracerebral haemorrhage, unspecified",28314
+G33zz00,Angina pectoris NOS,28554
+G30y000,Acute atrial infarction,28736
+662K300,Angina control - worsening,29300
+G344.00,Silent myocardial ischaemia,29421
+G366.00,"Thrombosis atrium,auric append&vent/curr comp foll acute MI",29553
+G303.00,Acute inferoposterior infarction,29643
+G30X.00,Acute transmural myocardial infarction of unspecif site,29758
+G330z00,Angina decubitus NOS,29902
+G616.00,External capsule haemorrhage,30045
+G617.00,"Intracerebral haemorrhage, intraventricular",30202
+G309.00,Acute Q-wave infarct,30330
+G30..13,Cardiac rupture following myocardial infarction (MI),30421
+G61X.00,"Intracerebral haemorrhage in hemisphere, unspecified",31060
+7922.00,Allograft replacement of coronary artery,31556
+G610.00,Cortical haemorrhage,31595
+G62..00,Other and unspecified intracranial haemorrhage,31805
+G38..00,Postoperative myocardial infarction,32272
+G630.00,Basilar artery occlusion,32447
+G33z400,Ischaemic chest pain,32450
+14AA.00,H/O: heart disease NOS,32526
+7922.11,Allograft bypass of coronary artery,32651
+G30B.00,Acute posterolateral myocardial infarction,32854
+9N0p.00,Seen in stroke clinic,32959
+G651.00,Vertebral artery syndrome,33377
+792Dz00,Other bypass of coronary artery NOS,33471
+G665.00,Pure motor lacunar syndrome,33499
+G6X..00,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,33543
+14A7.00,H/O: CVA/stroke,34135
+G311300,Refractory angina,34328
+G34y.00,Other specified chronic ischaemic heart disease,34633
+G641.11,Cerebral embolus,34758
+G30y.00,Other acute myocardial infarction,34803
+792D.00,Other bypass of coronary artery,34963
+G34yz00,Other specified chronic ischaemic heart disease NOS,35713
+G36..00,Certain current complication follow acute myocardial infarct,36423
+G311.00,Preinfarction syndrome,36523
+G342.00,Atherosclerotic cardiovascular disease,36609
+G640000,Cerebral infarction due to thrombosis of cerebral arteries,36717
+G332.00,Coronary artery spasm,36854
+G362.00,Ventric septal defect/curr comp fol acut myocardal infarctn,37657
+G351.00,Subsequent myocardial infarction of inferior wall,38609
+G676000,"Cereb infarct due cerebral venous thrombosis, nonpyogenic",39344
+G312.00,Coronary thrombosis not resulting in myocardial infarction,39449
+Gyu3000,[X]Other forms of angina pectoris,39546
+G311.12,Impending infarction,39655
+G31y200,Subendocardial ischaemia,39693
+3232.00,ECG: old myocardial infarction,39904
+G611.00,Internal capsule haemorrhage,40338
+G301000,Acute anteroapical infarction,40429
+G6W..00,Cereb infarct due unsp occlus/stenos precerebr arteries,40758
+G30y200,Acute septal infarction,41221
+G384.00,Postoperative subendocardial myocardial infarction,41835
+ZLEP.00,Discharge from stroke serv,42248
+G653.00,Carotid artery syndrome hemispheric,44765
+14AL.00,H/O: Treatment for ischaemic heart disease,45476
+G350.00,Subsequent myocardial infarction of anterior wall,45809
+G30yz00,Other acute myocardial infarction NOS,46017
+G380.00,Postoperative transmural myocardial infarction anterior wall,46112
+G35X.00,Subsequent myocardial infarction of unspecified site,46166
+G381.00,Postoperative transmural myocardial infarction inferior wall,46276
+G612.00,Basal nucleus haemorrhage,46316
+L440.11,CVA - cerebrovascular accident in the puerperium,47607
+G64z100,Wallenberg syndrome,47642
+G681.00,Sequelae of intracerebral haemorrhage,48149
+66f0.00,Cardiovascular disease annual review,48980
+14AH.00,H/O: Myocardial infarction in last year,50372
+G654.00,Multiple and bilateral precerebral artery syndromes,50594
+G666.00,Pure sensory lacunar syndrome,51767
+Gyu3.00,[X]Ischaemic heart diseases,52517
+7924000,Revision of bypass for one coronary artery,52938
+G311z00,Preinfarction syndrome NOS,54251
+G33z100,Stenocardia,54535
+G311011,MI - myocardial infarction aborted,55137
+G65z000,Impending cerebral ischaemia,55247
+7P24200,Delivery of rehabilitation for stroke,55351
+G5y2.00,Cardiovascular arteriosclerosis unspecified,56621
+14AJ.00,H/O: Angina in last year,57062
+G618.00,"Intracerebral haemorrhage, multiple localized",57315
+G63..11,Infarction - precerebral,57495
+G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI,59189
+G364.00,Ruptur chordae tendinae/curr comp fol acute myocard infarct,59940
+G311000,Myocardial infarction aborted,61072
+G615.00,Bulbar haemorrhage,62342
+G30y100,Acute papillary muscle infarction,62626
+G306.00,True posterior myocardial infarction,63467
+G33z000,Status anginosus,66388
+14AK.00,H/O: Stroke in last year,66873
+G31y100,Microinfarction of heart,68357
+Gyu3200,[X]Other forms of acute ischaemic heart disease,68401
+G38z.00,"Postoperative myocardial infarction, unspecified",68748
+G365.00,Rupture papillary muscle/curr comp fol acute myocard infarct,69474
+G353.00,Subsequent myocardial infarction of other sites,72562
+8H2V.00,Admit ischaemic heart disease emergency,95550
+Gyu3400,[X]Acute transmural myocardial infarction of unspecif site,96838
+G633.00,Multiple and bilateral precerebral arterial occlusion,98642
+Gyu3600,[X]Subsequent myocardial infarction of unspecified site,99991
+14AT.00,History of myocardial infarction,100139
+1M4..00,Central post-stroke pain,100639
+ZV12D00,[V]Personal history of transient ischaemic attack,101251
+662M100,Stroke 6 month review,105100
+8Hd6.00,Admission to stroke unit,105520
+G657.00,Carotid territory transient ischaemic attack,105738
+661M700,Stroke self-management plan agreed,107195
+8T04.00,Referral to Angina Plan self-management programme,107574
+661M000,Angina self-management plan agreed,107967
+8IEY.00,Referral to Angina Plan self-management programme declined,108056
+661N000,Angina self-management plan review,109391
+661N700,Stroke self-management plan review,109743
+Gyu6C00,"[X]Sequelae of stroke,not specfd as h'morrhage or infarction",110337

@@ -1,0 +1,10 @@
+ICD10,Include,Desc
+G45,Lower,TIA
+I20,Lower,Angina Pectoris
+I21,Lower,Acute MI
+I22,Lower,Subs MI
+I23,Lower,Comp after MI
+I24,Lower,Other acute ischaemic heart disease
+I25,Lower,Chronic Ischaemic heart disease
+I63,Lower,Cerebral Infarction
+I64,Lower,Stroke not specified as haemorrhage or infarction

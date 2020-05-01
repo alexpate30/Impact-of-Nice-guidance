@@ -1,0 +1,50 @@
+medcode,readcode,Coding_ID,Cluster_ID,Cluster_Description,Cluster_Version,readterm
+844,N040.,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthritis
+5723,N0422,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid nodule
+6916,N040P,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Seronegative rheumatoid arthritis
+8350,N040T,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Flare of rheumatoid arthritis
+9707,N047.,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Seropositive errosive rheumatoid arthritis
+12019,N04X.,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,"Seropositive rheumatoid arthritis, unspecified"
+18155,N040Q,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid bursitis
+21358,N0402,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthritis of shoulder
+23552,N041.,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Felty's syndrome
+28853,N04y0,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid lung
+30548,N040N,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid vasculitis
+31054,N040S,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthritis - multiple joint
+31724,N04y0,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid lung
+32001,N04y2,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Adult-onset Still's disease
+37431,N042z,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthropathy with visceral or systemic involvement NOS
+41941,N0409,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthritis of proximal interphalangeal joint of finger
+42299,N0408,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthritis of metacarpophalangeal joint
+43816,G5yA.,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid carditis
+44203,N0401,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Other rheumatoid arthritis of spine
+44743,N0400,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthritis of cervical spine
+46436,N0421,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid lung disease
+48832,N0407,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthritis of wrist
+49067,N040B,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthritis of hip
+49227,N042.,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Other rheumatoid arthropathy with visceral or systemic involvement
+49787,G5y8.,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid myocarditis
+50863,N040D,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthritis of knee
+51238,N040K,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthritis of 1st metatarsophalangeal joint
+51239,N040F,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthritis of ankle
+53621,N040R,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid nodule
+56202,Nyu1G,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,"[X]Seropositive rheumatoid arthritis, unspecified"
+56838,N04y0,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid lung
+59738,N0405,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthritis of elbow
+63198,N040A,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthritis of distal interphalangeal joint of finger
+63365,N0406,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthritis of distal radio-ulnar joint
+70221,Nyu12,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,[X]Other specified rheumatoid arthritis
+70658,N040H,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthritis of talonavicular joint
+71784,N040J,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthritis of other tarsal joint
+73619,N040G,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthritis of subtalar joint
+93715,Nyu11,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,[X]Other seropositive rheumatoid arthritis
+99414,N040L,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthritis of lesser metatarsophalangeal joint
+100776,N040C,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthritis of sacro-iliac joint
+100914,N0404,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthritis of acromioclavicular joint
+106092,9hR1.,Read V2,RARTHEXC_COD,Rheumatoid arthritis exception reporting codes,100.0,Excepted from rheumatoid arthritis quality indicators: informed dissent
+106093,9hR..,Read V2,RARTHEXC_COD,Rheumatoid arthritis exception reporting codes,100.0,Exception reporting: rheumatoid arthritis quality indicators
+106118,9hR0.,Read V2,RARTHEXC_COD,Rheumatoid arthritis exception reporting codes,100.0,Excepted from rheumatoid arthritis quality indicators: patient unsuitable
+106440,Nyu10,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,[X]Rheumatoid arthritis with involvement of other organs or systems
+107112,N040M,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthritis of interphalangeal joint of toe
+107791,N040E,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthritis of tibio-fibular joint
+107963,N0403,Read V2,RARTH_COD,Rheumatoid arthritis codes,100.0,Rheumatoid arthritis of sternoclavicular joint

@@ -1,0 +1,164 @@
+medcode,readcode,readterm,race
+12513,9iA..00,Other Asian background - ethnic category 2001 census,asianother
+47077,9iA3.00,East African Asian - ethnic category 2001 census,asianother
+32399,9iA7.00,Caribbean Asian - ethnic category 2001 census,asianother
+12653,9iA8.00,British Asian - ethnic category 2001 census,asianother
+46056,9iA9.00,Mixed Asian - ethnic category 2001 census,asianother
+38097,9SA6.00,E Afric Asian/Indo-Carib (NMO),asianother
+46818,9SA6.11,East African Asian (NMO),asianother
+99316,9SA6.12,Indo-Caribbean (NMO),asianother
+39696,9SA7.00,Indian sub-continent (NMO),asianother
+26379,9SA8.00,Other Asian (NMO),asianother
+12668,9SH..00,Other Asian ethnic group,asianother
+28888,9i9..00,Bangladeshi or British Bangladeshi - ethn categ 2001 census,bangladesh
+24740,9S8..00,Bangladeshi,bangladesh
+12432,9iB..00,Caribbean - ethnic category 2001 census,black
+12350,9iC..00,African - ethnic category 2001 census,black
+32389,9iD..00,Other Black background - ethnic category 2001 census,black
+12443,9iD0.00,Somali - ethnic category 2001 census,black
+32886,9iD1.00,Nigerian - ethnic category 2001 census,black
+40097,9iD2.00,Black British - ethnic category 2001 census,black
+40096,9iD3.00,Mixed Black - ethnic category 2001 census,black
+46047,9iD4.00,Other Black or Black unspecified ethnic category 2001 census,black
+12632,9S2..00,Black Caribbean,black
+12778,9S3..00,Black African,black
+24339,9S4..00,"Black, other, non-mixed origin",black
+12452,9S41.00,Black British,black
+57435,9S42.00,Black Caribbean/W.I./Guyana,black
+47950,9S42.11,Black Caribbean,black
+47997,9S42.12,Black West Indian,black
+32100,9S42.13,Black Guyana,black
+41329,9S43.00,Black N African/Arab/Iranian,black
+46812,9S43.11,Black North African,black
+57752,9S43.12,Black Arab,black
+50286,9S43.13,Black Iranian,black
+35412,9S44.00,Black - other African country,black
+47965,9S45.00,Black E Afric Asia/Indo-Caribb,black
+57753,9S45.11,Black East African Asian,black
+57763,9S45.12,Black Indo-Caribbean,black
+48005,9S46.00,Black Indian sub-continent,black
+35350,9S47.00,Black - other Asian,black
+26312,9S48.00,Black Black - other,black
+25676,9S5..00,"Black - other, mixed",black
+54593,9SA3.00,Caribbean I./W.I./Guyana (NMO),black
+57094,9SA3.11,Caribbean Island (NMO),black
+57075,9SA3.12,West Indian (NMO),black
+93144,9SA3.13,Guyana (NMO),black
+32136,9SG..00,Other black ethnic group,black
+12468,9iE..00,Chinese - ethnic category 2001 census,chinese
+24272,9S9..00,Chinese,chinese
+12414,9i7..00,Indian or British Indian - ethnic category 2001 census,indian
+12482,9S6..00,Indian,indian
+12742,9i3..00,White and Black Caribbean - ethnic category 2001 census,mixed
+12437,9i4..00,White and Black African - ethnic category 2001 census,mixed
+12638,9i5..00,White and Asian - ethnic category 2001 census,mixed
+12873,9i6..00,Other Mixed background - ethnic category 2001 census,mixed
+12795,9i60.00,Black and Asian - ethnic category 2001 census,mixed
+49940,9i61.00,Black and Chinese - ethnic category 2001 census,mixed
+40110,9i62.00,Black and White - ethnic category 2001 census,mixed
+12706,9i63.00,Chinese and White - ethnic category 2001 census,mixed
+47005,9i64.00,Asian and Chinese - ethnic category 2001 census,mixed
+32408,9i65.00,Other Mixed or Mixed unspecified ethnic category 2001 census,mixed
+25623,9S51.00,Other Black - Black/White orig,mixed
+32165,9S52.00,Other Black - Black/Asian orig,mixed
+12696,9SB..00,"Other ethnic, mixed origin",mixed
+47401,9SB1.00,"Other ethnic, Black/White orig",mixed
+32401,9SB2.00,"Other ethnic, Asian/White orig",mixed
+35459,9SB3.00,"Other ethnic, mixed white orig",mixed
+32420,9SB4.00,"Other ethnic, other mixed orig",mixed
+32425,9SB5.00,Black Caribbean and White,mixed
+32443,9SB6.00,Black African and White,mixed
+26392,9iA1.00,Punjabi - ethnic category 2001 census,oth_asian
+64133,9iA2.00,Kashmiri - ethnic category 2001 census,oth_asian
+12608,9iA4.00,Sri Lankan - ethnic category 2001 census,oth_asian
+12760,9iA5.00,Tamil - ethnic category 2001 census,oth_asian
+12887,9iA6.00,Sinhalese - ethnic category 2001 census,oth_asian
+28935,9iAA.00,Other Asian or Asian unspecified ethnic category 2001 census,oth_asian
+12434,9iF..00,Other - ethnic category 2001 census,other
+12719,9iF0.00,Vietnamese - ethnic category 2001 census,other
+12473,9iF1.00,Japanese - ethnic category 2001 census,other
+12420,9iF2.00,Filipino - ethnic category 2001 census,other
+12730,9iF3.00,Malaysian - ethnic category 2001 census,other
+63872,9iF4.00,Buddhist - ethnic category 2001 census,other
+56127,9iF5.00,Hindu - ethnic category 2001 census,other
+46063,9iF6.00,Jewish - ethnic category 2001 census,other
+47091,9iF7.00,Muslim - ethnic category 2001 census,other
+49658,9iF8.00,Sikh - ethnic category 2001 census,other
+46059,9iF9.00,Arab - ethnic category 2001 census,other
+47028,9iFA.00,North African - ethnic category 2001 census,other
+28909,9iFB.00,"Mid East (excl Israeli, Iranian & Arab) - eth cat 2001 cens",other
+46964,9iFC.00,Israeli - ethnic category 2001 census,other
+25937,9iFD.00,Iranian - ethnic category 2001 census,other
+45964,9iFE.00,Kurdish - ethnic category 2001 census,other
+25451,9iFF.00,Moroccan - ethnic category 2001 census,other
+26246,9iFG.00,Latin American - ethnic category 2001 census,other
+12756,9iFH.00,South and Central American - ethnic category 2001 census,other
+32382,9iFJ.00,Mauritian/Seychellois/Maldivian/St Helena eth cat 2001census,other
+26455,9iFK.00,Any other group - ethnic category 2001 census,other
+30280,9SA..00,Other ethnic non-mixed (NMO),other
+32110,9SA1.00,Brit. ethnic minor. spec.(NMO),other
+57764,9SA2.00,Brit. ethnic minor. unsp (NMO),other
+24962,9SA4.00,N African Arab/Iranian (NMO),other
+47285,9SA4.11,North African Arab (NMO),other
+25082,9SA4.12,Iranian (NMO),other
+47969,9SA5.00,Other African countries (NMO),other
+45947,9SAA.00,Greek/Greek Cypriot (NMO),other
+45955,9SAA.11,Greek (NMO),other
+47949,9SAA.12,Greek Cypriot (NMO),other
+32066,9SAB.00,Turkish/Turkish Cypriot (NMO),other
+32126,9SAB.11,Turkish (NMO),other
+32069,9SAB.12,Turkish Cypriot (NMO),other
+12633,9SAC.00,Other European (NMO),other
+41214,9SAD.00,Other ethnic NEC (NMO),other
+25411,9SC..00,Vietnamese,other
+12757,9SJ..00,Other ethnic group,other
+24690,9S7..00,Pakistani,pakistan
+12460,9i8..00,Pakistani or British Pakistani - ethnic category 2001 census,pakistani
+12435,9i...00,Ethnic category - 2001 census,unclas
+34996,9I...00,Practice supplies admin.,unclas
+12459,9iG..00,Ethnic category not stated - 2001 census,unclas
+10196,9S...00,Ethnic groups (census),unclas
+12429,9SD..00,Ethnic group not given - patient refused,unclas
+24340,9SE..00,Ethnic group not recorded,unclas
+45199,9SZ..00,Ethnic groups (census) NOS,unclas
+12351,9i0..00,British or mixed British - ethnic category 2001 census,white
+98111,9i00.00,White British - ethnic category 2001 census,white
+12532,9i1..00,Irish - ethnic category 2001 census,white
+98213,9i10.00,White Irish - ethnic category 2001 census,white
+12421,9i2..00,Other White background - ethnic category 2001 census,white
+12352,9i20.00,English - ethnic category 2001 census,white
+12436,9i21.00,Scottish - ethnic category 2001 census,white
+12681,9i22.00,Welsh - ethnic category 2001 census,white
+28887,9i23.00,Cornish - ethnic category 2001 census,white
+42294,9i24.00,Northern Irish - ethnic category 2001 census,white
+40102,9i25.00,Ulster Scots - ethnic category 2001 census,white
+32778,9i26.00,Cypriot (part not stated) - ethnic category 2001 census,white
+12355,9i27.00,Greek - ethnic category 2001 census,white
+12769,9i28.00,Greek Cypriot - ethnic category 2001 census,white
+12746,9i29.00,Turkish - ethnic category 2001 census,white
+32413,9i2A.00,Turkish Cypriot - ethnic category 2001 census,white
+12412,9i2B.00,Italian - ethnic category 2001 census,white
+55223,9i2C.00,Irish Traveller - ethnic category 2001 census,white
+55113,9i2D.00,Traveller - ethnic category 2001 census,white
+42290,9i2E.00,Gypsy/Romany - ethnic category 2001 census,white
+12467,9i2F.00,Polish - ethnic category 2001 census,white
+12433,9i2G.00,Baltic Estonian/Latvian/Lithuanian - ethn categ 2001 census,white
+28973,9i2H.00,Commonwealth (Russian) Indep States - ethn categ 2001 census,white
+26341,9i2J.00,Kosovan - ethnic category 2001 census,white
+25422,9i2K.00,Albanian - ethnic category 2001 census,white
+46956,9i2L.00,Bosnian - ethnic category 2001 census,white
+28866,9i2M.00,Croatian - ethnic category 2001 census,white
+47074,9i2N.00,Serbian - ethnic category 2001 census,white
+28936,9i2P.00,Other republics former Yugoslavia - ethnic categ 2001 census,white
+26391,9i2Q.00,Mixed Irish and other White - ethnic category 2001 census,white
+12402,9i2R.00,Oth White European/European unsp/Mixed European 2001 census,white
+28900,9i2S.00,Other mixed White - ethnic category 2001 census,white
+12591,9i2T.00,Other White or White unspecified ethnic category 2001 census,white
+22467,9S1..00,White,white
+12446,9S10.00,White British,white
+24837,9S11.00,White Irish,white
+12444,9S12.00,Other white ethnic group,white
+26467,9S13.00,White Scottish,white
+26310,9S14.00,Other white British ethnic group,white
+24270,9SA9.00,Irish (NMO),white
+47601,9SI..00,Irish traveller,white

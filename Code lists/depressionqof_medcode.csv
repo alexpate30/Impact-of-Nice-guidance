@@ -1,0 +1,87 @@
+medcode,readcode,Coding_ID,Cluster_ID,Cluster_Description,Cluster_Version,readterm
+324,E2B..,Read V2,DEPR_COD,Depression diagnosis codes,100.0,Depressive disorder NEC
+543,Eu32z,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"[X]Depressive episode, unspecified"
+595,E112.,Read V2,DEPR_COD,Depression diagnosis codes,100.0,Single major depressive episode
+655,E2003,Read V2,DEPR_COD,Depression diagnosis codes,100.0,Anxiety with depression
+1055,E135.,Read V2,DEPR_COD,Depression diagnosis codes,100.0,Agitated depression
+2970,Eu32z,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"[X]Depressive episode, unspecified"
+3291,Eu32z,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"[X]Depressive episode, unspecified"
+3292,Eu33.,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Recurrent depressive disorder
+4323,E2B1.,Read V2,DEPR_COD,Depression diagnosis codes,100.0,Chronic depression
+4639,Eu32.,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Depressive episode
+5879,E112.,Read V2,DEPR_COD,Depression diagnosis codes,100.0,Single major depressive episode
+5987,Eu32z,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"[X]Depressive episode, unspecified"
+6482,E1137,Read V2,DEPR_COD,Depression diagnosis codes,100.0,Recurrent depression
+6546,E112.,Read V2,DEPR_COD,Depression diagnosis codes,100.0,Single major depressive episode
+6854,Eu32y,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Other depressive episodes
+6932,E113.,Read V2,DEPR_COD,Depression diagnosis codes,100.0,Recurrent major depressive episode
+6950,E112.,Read V2,DEPR_COD,Depression diagnosis codes,100.0,Single major depressive episode
+7011,E112z,Read V2,DEPR_COD,Depression diagnosis codes,100.0,Single major depressive episode NOS
+7604,Eu32.,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Depressive episode
+7737,Eu341,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Dysthymia
+7749,Eu412,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Mixed anxiety and depressive disorder
+7953,Eu341,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Dysthymia
+8478,E130.,Read V2,DEPR_COD,Depression diagnosis codes,100.0,Reactive depressive psychosis
+8584,Eu341,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Dysthymia
+8826,Eu33.,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Recurrent depressive disorder
+8851,Eu33.,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Recurrent depressive disorder
+8902,Eu33.,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Recurrent depressive disorder
+9055,Eu32.,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Depressive episode
+9183,E11z2,Read V2,DEPR_COD,Depression diagnosis codes,100.0,Masked depression
+9211,Eu321,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Moderate depressive episode
+9667,Eu322,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Severe depressive episode without psychotic symptoms
+10290,Eu341,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Dysthymia
+10610,E112.,Read V2,DEPR_COD,Depression diagnosis codes,100.0,Single major depressive episode
+10667,Eu324,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Mild depression
+10720,Eu32y,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Other depressive episodes
+10825,E118.,Read V2,DEPR_COD,Depression diagnosis codes,100.0,Seasonal affective disorder
+11055,Eu251,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"[X]Schizoaffective disorder, depressive type"
+11252,Eu332,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"[X]Recurrent depressive disorder, current episode severe without psychotic symptoms"
+11329,Eu332,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"[X]Recurrent depressive disorder, current episode severe without psychotic symptoms"
+11717,Eu320,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Mild depressive episode
+11913,Eu412,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Mixed anxiety and depressive disorder
+14709,E1132,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"Recurrent major depressive episodes, moderate"
+15099,E113.,Read V2,DEPR_COD,Depression diagnosis codes,100.0,Recurrent major depressive episode
+15155,E1122,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"Single major depressive episode, moderate"
+15219,E1123,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"Single major depressive episode, severe, without mention of psychosis"
+15220,Eu341,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Dysthymia
+16506,E1121,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"Single major depressive episode, mild"
+16632,E291.,Read V2,DEPR_COD,Depression diagnosis codes,100.0,Prolonged depressive reaction
+18510,Eu32.,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Depressive episode
+19696,Eu33.,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Recurrent depressive disorder
+20785,Eu204,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Post-schizophrenic depression
+21887,E0021,Read V2,DEPR_COD,Depression diagnosis codes,100.0,Senile dementia with depression
+22116,Eu334,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"[X]Recurrent depressive disorder, currently in remission"
+22806,Eu322,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Severe depressive episode without psychotic symptoms
+24117,Eu323,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Severe depressive episode with psychotic symptoms
+24171,E1134,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"Recurrent major depressive episodes, severe, with psychosis"
+25563,E113z,Read V2,DEPR_COD,Depression diagnosis codes,100.0,Recurrent major depressive episode NOS
+25697,E1133,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"Recurrent major depressive episodes, severe, without mention of psychosis"
+27491,E11y2,Read V2,DEPR_COD,Depression diagnosis codes,100.0,Atypical depressive disorder
+27677,E0013,Read V2,DEPR_COD,Depression diagnosis codes,100.0,Presenile dementia with depression
+28248,Eu32z,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"[X]Depressive episode, unspecified"
+28756,Eu33.,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Recurrent depressive disorder
+29342,E1131,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"Recurrent major depressive episodes, mild"
+29451,Eu332,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"[X]Recurrent depressive disorder, current episode severe without psychotic symptoms"
+29520,Eu331,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"[X]Recurrent depressive disorder, current episode moderate"
+29784,Eu330,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"[X]Recurrent depressive disorder, current episode mild"
+32159,E1124,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"Single major depressive episode, severe, with psychosis"
+33469,Eu332,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"[X]Recurrent depressive disorder, current episode severe without psychotic symptoms"
+34390,E1120,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"Single major depressive episode, unspecified"
+35671,E1130,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"Recurrent major depressive episodes, unspecified"
+36616,Eu33z,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"[X]Recurrent depressive disorder, unspecified"
+41989,Eu322,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Severe depressive episode without psychotic symptoms
+43324,E1125,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"Single major depressive episode, in partial or unspecified remission"
+44300,Eu33z,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"[X]Recurrent depressive disorder, unspecified"
+47009,Eu333,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"[X]Recurrent depressive disorder, current episode severe with psychotic symptoms"
+47731,Eu33y,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Other recurrent depressive disorders
+55384,E1136,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"Recurrent major depressive episodes, in full remission"
+56273,E1135,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"Recurrent major depressive episodes, in partial or unspecified remission"
+56609,Eu32y,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Other depressive episodes
+57409,E1126,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"Single major depressive episode, in full remission"
+59386,Eu322,Read V2,DEPR_COD,Depression diagnosis codes,100.0,[X]Severe depressive episode without psychotic symptoms
+73991,Eu332,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"[X]Recurrent depressive disorder, current episode severe without psychotic symptoms"
+98252,Eu326,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"[X]Major depression, moderately severe"
+98346,Eu325,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"[X]Major depression, mild"
+98414,Eu327,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"[X]Major depression, severe without psychotic symptoms"
+98417,Eu328,Read V2,DEPR_COD,Depression diagnosis codes,100.0,"[X]Major depression, severe with psychotic symptoms"

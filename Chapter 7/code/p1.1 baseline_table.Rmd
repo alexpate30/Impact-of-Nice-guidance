@@ -1,0 +1,29 @@
+---
+title: "baseline_table"
+author: "Alex Pate"
+date: "05/03/2019"
+output: word_document
+---
+
+```{r, echo=FALSE}
+### SET THE ROOT DIRECTORY
+
+### SET THE ROOT DIRECTORY
+load("R_out_Vis2019/baseline_table.RData")
+
+
+library(knitr)
+
+## Calculate n's
+## Also count number of patients in each cohort
+print("cont")
+kable(cont.vars)
+print("cat")
+kable(cat.vars,digits=c(2,2))
+print("miss")
+kable(miss.vars, digits=c(2,2))
+print("female n")
+female.n
+print("male n")
+male.n
+```

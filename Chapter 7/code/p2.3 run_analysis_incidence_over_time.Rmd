@@ -1,0 +1,19 @@
+---
+title: "Run_analysis"
+author: "Alex Pate"
+date: "13/01/2020"
+output: word_document
+---
+
+```{r, echo=FALSE}
+### SET THE ROOT DIRECTORY
+
+### SET THE ROOT DIRECTORY
+
+load("R_out_Vis2019/run_analysis_incidence_over_time.RData")
+
+library(knitr)
+kable(inc.tab, digits = c(1,0,2))
+
+plot(1998:2017,inc.tab[1:20,3],xlab="Year", ylab = "Rate per 1000 person years")
+```
